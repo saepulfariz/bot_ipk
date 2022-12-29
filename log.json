@@ -1,0 +1,20 @@
+{
+    "1": {
+        "kode_matkul": "DM002",
+        "nama_matkul": "PPA",
+        "sks": 2,
+        "nilai_angka": "90",
+        "nilai_huruf": "A",
+        "nilai_bobot": 4,
+        "nilai_total": 8
+    },
+    "2": {
+        "kode_matkul": "DM127",
+        "nama_matkul": "ASD",
+        "sks": 4,
+        "nilai_angka": "85",
+        "nilai_huruf": "A",
+        "nilai_bobot": 4,
+        "nilai_total": 16
+    }
+}
