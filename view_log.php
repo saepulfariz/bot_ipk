@@ -25,6 +25,7 @@ foreach($log as $l){
 	echo "Kode Matkul \t: ".$l['kode_matkul'];
 	echo "\n";
 	echo "Mata Kuliah \t: ".$l['nama_matkul'];
+	echo "\n";
 	echo "Nilai Angka \t: ".$l['nilai_angka'];
 	echo "\n";
 	echo "Jumlah SKS \t: ".$l['sks'];
